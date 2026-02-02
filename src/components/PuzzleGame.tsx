@@ -515,6 +515,10 @@ export default function PuzzleGame() {
                     <p className="text-xl text-white mb-6 font-medium">
                       Joyeux anniversaire !
                     </p>
+
+                    <p className="text-sm text-gray-400 opacity-80">
+                    l&apos;idée est vraiment naze mais j&apos;ai trop d&apos;inspiration je voulais te hacker de base
+                    </p>
                   </div>
                 </div>
               </div>
