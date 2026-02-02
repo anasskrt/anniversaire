@@ -490,18 +490,6 @@ export default function PuzzleGame() {
                       transition: 'all 0.6s cubic-bezier(0.34, 1.56, 0.64, 1)',
                     }}
                   >
-                    <div className="text-5xl mb-2">🎉</div>
-                    <h2 
-                      className="text-4xl font-bold mb-2"
-                      style={{
-                        background: 'linear-gradient(135deg, #fff 0%, #ffe4b5 100%)',
-                        WebkitBackgroundClip: 'text',
-                        WebkitTextFillColor: 'transparent',
-                        textShadow: '0 2px 10px rgba(0,0,0,0.1)',
-                      }}
-                    >
-                      Bravo !
-                    </h2>
                   </div>
                   
                   {/* Sous-titre animé */}
@@ -513,7 +501,7 @@ export default function PuzzleGame() {
                     }}
                   >
                     <p className="text-xl text-white mb-6 font-medium">
-                      Joyeux anniversaire !
+                      🎉 Joyeux anniversaire ! 🎉
                     </p>
 
                     <p className="text-sm text-gray-400 opacity-80">
